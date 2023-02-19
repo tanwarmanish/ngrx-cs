@@ -5,7 +5,7 @@
   "textFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "Gilroy",
   "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "nativeMenus": true,
   "translucency": false
 }
