@@ -1,0 +1,18 @@
+{
+  "obsidian-stopwatch-plugin:reset-stopwatch": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-stopwatch-plugin:start-stop-stopwatch": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ]
+}

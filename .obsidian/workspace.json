@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "543a9baa04d655ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5edeb25f248d37f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e5249601a95937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/03 - Writing our own Redux Store.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "480c0b0a9c4ccb58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD - Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29a8eb2b7defefb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5d31cc0c53ddddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b972695d477617",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10d0b2b1cb48e59c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba6bc2f96fdbae38",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cedfa55c5eba09f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a76e700f62ff107",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31b6c91404befeea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/03 - Writing our own Redux Store.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10c15bbca2fd96c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/03 - Writing our own Redux Store.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcf3f34d79e3af8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f9e4d012c5ce855",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/03 - Writing our own Redux Store.md"
+              }
+            }
+          },
+          {
+            "id": "b5fbe3eed654558a",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-stopwatch-plugin",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f8e5249601a95937",
+  "lastOpenFiles": [
+    "MD - Cheatsheet.md",
+    "Notes/03 - Writing our own Redux Store.md",
+    "Progress.md",
+    "Notes/02 - Redux Architecture.md",
+    "Notes/assets/02-one-way-data-flow.png",
+    "Notes/01 - Setup.md",
+    "01 - Installation.md"
+  ]
+}

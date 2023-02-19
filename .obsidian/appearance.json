@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Things",
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "Gilroy",
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSize": 18,
+  "nativeMenus": true,
+  "translucency": false
+}
